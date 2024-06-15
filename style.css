@@ -1,0 +1,32 @@
+body{
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 8px;
+}
+h4{
+    color: red;
+}
+
+h3{
+    text-shadow: 0.5px 0.5px;
+    color: blueviolet;
+}
+
+p1{
+    color: blueviolet;
+}
+pre{
+    text-shadow: 0.5px 0.5px;
+    border-style: double;
+    border-width: 3px;
+    border-radius: 10px;
+    
+}   
+
+#hdvideo{
+    margin: auto;
+}
