@@ -1,11 +1,15 @@
 body{
+    background-image: url(kid.jpg);
+    background-position: center;
+    background-attachment: auto;
+    background-size: cover;
     background-color: bisque;
     font-family: Verdana, Geneva, Tahoma, sans-serif, Arial, Helvetica, sans-serif;
 }
 
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif, Arial, Helvetica, sans-serif;
-    text-shadow: 1px 1px 6px;
+    text-shadow: 2px 2px 8px;
 }
 h4{
     color: red;
@@ -16,17 +20,33 @@ h3{
     color: blueviolet;
 }
 
-p1{
-    color: blueviolet;
+#p1{
+    color: blueviolet 
+}
+
+#lyrics{
+    color: black;
+    text-shadow: 1px 1px;
+   
 }
 pre{
+    color: rgb(164, 67, 255);
+    width: 150%;
     text-shadow: 0.5px 0.5px;
-    border-style: double;
-    border-width: 3px;
-    border-radius: 10px;
     
+    padding: 10px;
 }   
 
-#hdvideo{
-    margin: auto;
+footer{
+  color: aliceblue;
 }
+
+
+
+
+
+border-style: double;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 10px;
+
